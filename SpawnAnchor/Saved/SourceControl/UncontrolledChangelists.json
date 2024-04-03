@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/blueprints/BP_MyCharacter.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K4/QBJSL2IEZI205LO0HQNJZX.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WK/OM173AP8640M15BCJ4PHL4.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4W/OCHIOJ6MJXPPPHBSVO8WGH.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QX/KBRTP5V1ZYTS1679BMXI3R.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DQ/9V5M6JQS8P55KTTAC6GNNX.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FV/OD99B7NOD46INEKMJJ6ZID.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/blueprints/BP_Spawner.uasset",
+				"C:/Users/frede/OneDrive/Documents/Unreal Projects/SpawnAnchor/Content/blueprints/BP_SpawnLocation.uasset"
+			]
+		}
+	]
+}
